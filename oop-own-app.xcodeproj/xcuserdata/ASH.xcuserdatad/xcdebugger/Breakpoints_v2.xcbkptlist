@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "oop-own-app/Character.swift"
+            timestampString = "480341303.865266"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "damaged(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "oop-own-app/ViewController.swift"
+            timestampString = "480328767.493732"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.init (oop_own_app.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; oop_own_app.ViewController"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480341304.871895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.init (oop_own_app.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;oop_own_app.ViewController&gt;"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480341304.872087"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "oop-own-app/ViewController.swift"
+            timestampString = "480339844.030521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.opponentImgView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480330493.607135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.opponentImgView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480330493.6073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.opponentImgView.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480330493.607399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.init (oop_own_app.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; oop_own_app.ViewController"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480330493.607497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "410">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "oop_own_app.ViewController.init (oop_own_app.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;oop_own_app.ViewController&gt;"
+                  moduleName = "oop-own-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamadasyraafbinabdulrahman/Desktop/oop-own-app/oop-own-app/ViewController.swift"
+                  timestampString = "480330493.607592"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "306">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "oop-own-app/ViewController.swift"
+            timestampString = "480341303.865266"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
